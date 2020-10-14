@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### About the game
+Tic-tac-toe game that:
++ Lets you play tic-tac-toe,
++ Indicates when a player has won the game,
++ Stores a game’s history as a game progresses,
++ Allows players to review a game’s history and see previous versions of a game’s board.
